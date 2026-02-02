@@ -1,0 +1,17 @@
+reactive_node:
+  ros__parameters:
+    emergency_dist: 1.4
+    safe_dist: 0.8
+    disparityT: 0.3
+
+    k_angle: 2.0
+    front_ref: 2.0
+    max_speed: 7.0
+    min_speed: 1.5
+
+    threshold_max: 6.0
+    threshold_mid: 4.5
+    threshold_min: 2.5
+
+    front_max: 4.5
+    front_mid: 2.0
